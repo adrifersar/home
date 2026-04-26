@@ -1,0 +1,67 @@
+# Angular
+/dist/
+/tmp/
+/out-tsc/
+.angular/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/extensions.json
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Visual Studio Code
+.history/*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.swp
+*.swo
+*~
+
+# IDE
+*.iml
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+
+#Photo
+*.jpg
+*.jpeg  
+*.png
+*.gif   
+*.bmp
+*.svg
+*.webp
+*.psd   
+*.ico
